@@ -1,25 +1,25 @@
-<!-- <h1 align="center">Hi 👋, I'm Reem Ziedani</h1>
+<h1 align="center">Hi 👋, I'm Reem Ziedani</h1>
 <h3 align="center">A Full Stack Webdeveloper student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesselvandenijssel&label=Profile%20views&color=0e75b6&style=flat" alt="wesselvandenijssel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesselvandenijssel" alt="wesselvandenijssel" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://wesselvandenijssel.nl)
+- 🔭 I’m currently working on [Portfolio](https://reemziedani.nl/)
+
+- 🤝I’m currently learning **Laravel** for the backend of my portfolio
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with [DiscordJS](https://github.com/wesselvandenijssel/discordjs-wessel-sam)
+- 👨‍💻 All of my projects are available at [reemziedani.nl](https://reemziedani.nl/)
 
-- 👨‍💻 All of my projects are available at [wesselvandenijssel.nl](https://wesselvandenijssel.nl)
+- 📫 How to reach me **ziedanireem@gmail.com**
 
-- 📫 How to reach me **info@wesselvandenijssel.nl**
+- 📄 Know about my experiences [reemziedani.nl](https://reemziedani.nl/)
 
-- 📄 Know about my experiences [wesselvandenijssel.nl](https://wesselvandenijssel.nl)
+- ⚡ Fun fact **I am syriesch**
 
-- ⚡ Fun fact **I am Dutch**
-
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/wesselvandenijssel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wesselvandenijssel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wessel-van-den-ijssel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wessel-van-den-ijssel" height="30" width="40" /></a>
@@ -33,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesselvandenijssel&show_icons=true&locale=en" alt="wesselvandenijssel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesselvandenijssel&" alt="wesselvandenijssel" /></p> -->
-
-<h1 align="center">Hi 👋, I'm Reem Ziedani</h1>
